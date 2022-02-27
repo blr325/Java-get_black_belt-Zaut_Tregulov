@@ -1,6 +1,5 @@
 package collection.hash_table;
 
-import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Map;
 

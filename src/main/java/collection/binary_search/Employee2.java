@@ -1,7 +1,5 @@
 package collection.binary_search;
 
-import collection.linkedlist.Employee;
-
 public class Employee2 implements Comparable<Employee2> {
     private String name;
     private int ID;
