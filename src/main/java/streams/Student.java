@@ -13,6 +13,18 @@ public class Student {
         this.avrGrade = avrGrade;
     }
 
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setAvrGrade(double avrGrade) {
+        this.avrGrade = avrGrade;
+    }
+
     public String getName() {
         return name;
     }
